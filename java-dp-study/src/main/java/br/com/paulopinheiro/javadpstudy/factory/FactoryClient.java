@@ -1,6 +1,6 @@
-package br.com.paulopinheiro.java.dp.study.factory;
+package br.com.paulopinheiro.javadpstudy.factory;
 
-import br.com.paulopinheiro.java.dp.study.factory.animals.Animal;
+import br.com.paulopinheiro.javadpstudy.factory.animals.Animal;
 
 public class FactoryClient {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.paulopinheiro.java.dp.study.udemy.factory.concretecreator;
+package br.com.paulopinheiro.javadpstudy.udemy.factory.concretecreator;
 
 interface Shape {
     void draw();

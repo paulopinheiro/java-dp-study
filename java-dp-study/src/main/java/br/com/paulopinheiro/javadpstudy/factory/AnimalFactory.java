@@ -1,8 +1,8 @@
-package br.com.paulopinheiro.java.dp.study.factory;
+package br.com.paulopinheiro.javadpstudy.factory;
 
-import br.com.paulopinheiro.java.dp.study.factory.animals.Animal;
-import br.com.paulopinheiro.java.dp.study.factory.animals.Duck;
-import br.com.paulopinheiro.java.dp.study.factory.animals.Tiger;
+import br.com.paulopinheiro.javadpstudy.factory.animals.Animal;
+import br.com.paulopinheiro.javadpstudy.factory.animals.Duck;
+import br.com.paulopinheiro.javadpstudy.factory.animals.Tiger;
 import java.security.InvalidParameterException;
 
 public class AnimalFactory {

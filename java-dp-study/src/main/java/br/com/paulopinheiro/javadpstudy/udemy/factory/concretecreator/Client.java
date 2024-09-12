@@ -1,4 +1,4 @@
-package br.com.paulopinheiro.java.dp.study.udemy.factory.concretecreator;
+package br.com.paulopinheiro.javadpstudy.udemy.factory.concretecreator;
 
 public class Client {
     public static void main(String [] args)

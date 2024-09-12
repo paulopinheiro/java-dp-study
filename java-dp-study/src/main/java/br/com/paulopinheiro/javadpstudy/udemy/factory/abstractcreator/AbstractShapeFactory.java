@@ -1,4 +1,4 @@
-package br.com.paulopinheiro.java.dp.study.udemy.factory.abstractcreator;
+package br.com.paulopinheiro.javadpstudy.udemy.factory.abstractcreator;
 
 public abstract class AbstractShapeFactory {
 

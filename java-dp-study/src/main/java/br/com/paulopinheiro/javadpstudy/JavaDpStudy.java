@@ -1,4 +1,4 @@
-package br.com.paulopinheiro.java.dp.study;
+package br.com.paulopinheiro.javadpstudy;
 
 public class JavaDpStudy {
 

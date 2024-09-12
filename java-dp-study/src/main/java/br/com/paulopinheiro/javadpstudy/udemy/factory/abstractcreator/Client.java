@@ -1,4 +1,4 @@
-package br.com.paulopinheiro.java.dp.study.udemy.factory.abstractcreator;
+package br.com.paulopinheiro.javadpstudy.udemy.factory.abstractcreator;
 
 public class Client {
     public static void main(String[] args) {

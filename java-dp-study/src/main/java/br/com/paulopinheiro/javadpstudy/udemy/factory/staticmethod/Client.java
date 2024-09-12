@@ -1,4 +1,4 @@
-package br.com.paulopinheiro.java.dp.study.udemy.factory.staticmethod;
+package br.com.paulopinheiro.javadpstudy.udemy.factory.staticmethod;
 
 public class Client {
 

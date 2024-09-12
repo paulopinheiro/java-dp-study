@@ -1,4 +1,4 @@
-package br.com.paulopinheiro.java.dp.study.factory.animals;
+package br.com.paulopinheiro.javadpstudy.factory.animals;
 
 public class Tiger implements Animal {
     @Override

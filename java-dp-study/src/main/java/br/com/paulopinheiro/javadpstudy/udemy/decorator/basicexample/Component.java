@@ -1,4 +1,4 @@
-package br.com.paulopinheiro.javadpstudy.udemy.builder.decorator.basicexample;
+package br.com.paulopinheiro.javadpstudy.udemy.decorator.basicexample;
 
 abstract class Component {
     public abstract void doJob();

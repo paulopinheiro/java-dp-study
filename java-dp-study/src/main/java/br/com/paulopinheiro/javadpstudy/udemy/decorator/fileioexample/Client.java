@@ -1,4 +1,4 @@
-package br.com.paulopinheiro.javadpstudy.udemy.builder.decorator.fileioexample;
+package br.com.paulopinheiro.javadpstudy.udemy.decorator.fileioexample;
 
 import java.io.*;
 
